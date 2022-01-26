@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "checkJs": true,
+        "noImplicitAny": true
+
+    }
+}
+// ts 파일을 tj파일로 컴파일시 옵션을 주는 파일.
